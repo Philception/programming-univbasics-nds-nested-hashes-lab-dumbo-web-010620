@@ -16,6 +16,7 @@ new_arr = [
   KATE_G,
   BRUCE_G,
 ]
+assembled_aoh
 end
 
 def literal_aoh
