@@ -21,23 +21,23 @@ end
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
-DON_G = {
+don_g = {
   :name=> "Don Gately",
   :occupation=> "Live-in Staff"
 }
-JOELLE_VD = {
+joelle_vd = {
   :name=> "Joelle van Dyne",
   :occupation=> "Radio Personality"
 }
-PAT_M =  {
+pat_m =  {
   :name=> "Pat Monteseian",
   :occupation=> "Staff"
 }
-KATE_G = {
+kate_g = {
   :name=> "Kate Gompert",
   :occupation=> "None"
 }
-BRUCE_G = {
+bruce_g = {
   :name=> "Bruce Green",
   :occupation=> "Fan of Mildred"
 }
