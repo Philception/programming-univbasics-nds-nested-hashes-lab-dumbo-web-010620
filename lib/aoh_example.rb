@@ -43,11 +43,11 @@ BRUCE_G = {
 }
 
 literal_aoh = [
-  DON_G,
-  JOELLE_VD,
-  PAT_M,
-  KATE_G,
-  BRUCE_G,
+  don_g,
+  joelle_vd,
+  pat_m,
+  kate_g,
+  bruce_g,
 ]
 end
 
